@@ -34,17 +34,25 @@ layout: default
         {% assign div = '' %}
         {% endif %}
         <div {{ div }}>
-            <ul class="list-unstyled">
-                {% assign members = group.members | sort_natural: 'surname' %}
-                {% for member in members %}
-                <li class="fw-light" style="text-align: center; display: table; margin: 2px auto 6px auto;">
-                    {% if member.site %}<a href="{{ member.site }}" target="_blank">{% endif %}
-                    {{ member.name | append: ' ' | append: member.surname }}
-                    {% if member.site %}</a>{% endif %}
-                    {% if member.affiliation %}<small><small><small></br>{{ member.affiliation }}</small></small></small>{% endif %}
-                </li>
-                {% endfor %}
-            </ul>
+            <table style="margin: auto;">
+                <tr>
+                    {% assign members = group.members | sort_natural: 'surname' %}
+                    {% for member in members %}
+                    <td class="fw-light" style="text-align: center; padding: 6px;">
+                        {% if member.site %}
+                        <a href="{{ member.site }}" target="_blank">
+                            {{ member.name | append: ' ' | append: member.surname }}
+                        </a>
+                        {% else %}
+                        {{ member.name | append: ' ' | append: member.surname }}
+                        {% endif %}
+                        {% if member.affiliation %}
+                        <br><small><small>{{ member.affiliation }}</small></small>
+                        {% endif %}
+                    </td>
+                    {% endfor %}
+                </tr>
+            </table>
         </div>
         </br>
         {% endfor %}

@@ -35,12 +35,18 @@ groups:
       - name: Lin William
         surname: Cong
         affiliation: Cornell University
+      - name: Hanna
+        surname: Halaburda
+        affiliation: NYU Stern
       - name: Gordon
         surname: Liao
         affiliation: Circle
       - name: Ciamac
         surname: Moallemi
         affiliation: Columbia University
+      - name: Andy
+        surname: Naranjo
+        affiliation: University of Florida
       - name: Ken
         surname: Ng
         affiliation: Uniswap Foundation
@@ -53,9 +59,6 @@ groups:
       - name: Gerry
         surname: Tsoukalas
         affiliation: Boston University
-      - name: Hanna
-        surname: Halaburda
-        affiliation: NYU Stern
       - name: Xin
         surname: Wan
         affiliation: Uniswap Labs

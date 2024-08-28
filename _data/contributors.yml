@@ -3,8 +3,8 @@ groups:
     columns: true
     members:
       - name: Agostino
-        surname: Capponi
-        affiliation: Columbia University (chair)
+        surname: Capponi (Chair)
+        affiliation: Columbia University
       - name: Nir
         surname: Chemaya
         affiliation: University of California at Santa Barbara

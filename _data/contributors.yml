@@ -44,9 +44,6 @@ groups:
       - name: Ciamac
         surname: Moallemi
         affiliation: Columbia University
-      - name: Andy
-        surname: Naranjo
-        affiliation: University of Florida
       - name: Ken
         surname: Ng
         affiliation: Uniswap Foundation

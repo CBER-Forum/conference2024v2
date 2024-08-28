@@ -8,6 +8,9 @@ groups:
       - name: Nir
         surname: Chemaya
         affiliation: University of California at Santa Barbara
+      - name: Kose
+        surname: John
+        affiliation: NYU Stern
       - name: Barnabé
         surname: Monnot
         affiliation: Ethereum Foundation

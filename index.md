@@ -4,7 +4,7 @@ title: Home
 navorder: 1
 description: |
   Hosted by Columbia University's Center for Digital Finance and Technologies<br/>
-  Sponsored by Ava Labs and Uniswap Foundation<br/>
+  Sponsored by Avalanche Foundation and Uniswap Foundation<br/>
   <div style="font-size:0.8em;">New York, NY<br/>October 25 - 26, 2024</div>
 ---
 

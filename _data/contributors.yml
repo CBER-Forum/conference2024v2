@@ -47,6 +47,9 @@ groups:
       - name: Ken
         surname: Ng
         affiliation: Uniswap Foundation
+      - name: Andy
+        surname: Naranjo
+        affiliation: University of Florida
       - name: Brett
         surname: Palatiello
         affiliation: Eigen Labs

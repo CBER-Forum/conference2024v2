@@ -29,15 +29,15 @@ layout: default
         </center>
         {% endif %}
         {% if group.columns %}
-        {% assign div = ' id="roster"' %}
+        {% assign extra = ' id="roster"' %}
         {% else %}
-        {% assign div = '' %}
+        {% assign extra = '' %}
         {% endif %}
-        <div {{ div }}>
-            <ul class="list-unstyled">
+        <div>
+            <ul class="list-unstyled" style="display: flex; flex-wrap: wrap; justify-content: center; padding: 0; text-align: center;">
                 {% assign members = group.members | sort_natural: 'surname' %}
                 {% for member in members %}
-                <li class="fw-light" style="text-align: center; display: table; margin: 2px auto 6px auto;">
+                <li {{ extra }} class="fw-light" style="text-align: center;">
                     {% if member.site %}<a href="{{ member.site }}" target="_blank">{% endif %}
                     {{ member.name | append: ' ' | append: member.surname }}
                     {% if member.site %}</a>{% endif %}

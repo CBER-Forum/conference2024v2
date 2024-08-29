@@ -28,15 +28,15 @@
 
 #roster {
   @media (min-width: 576px) {
-    column-count: 1;
+    width: 100%;
   }
 
   @media (min-width: 768px) {
-    column-count: 2;
+    width: 50%;
   }
 
   @media (min-width: 992px) {
-    column-count: 3;
+    width: 33%;
   }
 
   div {

@@ -29,6 +29,9 @@ groups:
   - title: Advisory Committee
     columns: true
     members:
+      - name: Bita
+        surname: Abol
+        affiliation: Uniswap Foundation
       - name: Brad
         surname: Bachu
         affiliation: Uniswap Labs

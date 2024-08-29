@@ -34,17 +34,19 @@ layout: default
         {% assign extra = '' %}
         {% endif %}
         <div>
-            <ul class="list-unstyled" style="display: flex; flex-wrap: wrap; justify-content: center; padding: 0; text-align: center;">
-                {% assign members = group.members | sort_natural: 'surname' %}
-                {% for member in members %}
-                <li {{ extra }} class="fw-light" style="text-align: center;">
-                    {% if member.site %}<a href="{{ member.site }}" target="_blank">{% endif %}
-                    {{ member.name | append: ' ' | append: member.surname }}
-                    {% if member.site %}</a>{% endif %}
-                    {% if member.affiliation %}<small><small><small></br>{{ member.affiliation }}</small></small></small>{% endif %}
-                </li>
-                {% endfor %}
-            </ul>
+            <center>
+                <ul class="list-unstyled" style="display: flex; flex-wrap: wrap; justify-content: center; padding: 0; text-align: center; width: 70%">
+                    {% assign members = group.members | sort_natural: 'surname' %}
+                    {% for member in members %}
+                    <li {{ extra }} class="fw-light" style="text-align: center;">
+                        {% if member.site %}<a href="{{ member.site }}" target="_blank">{% endif %}
+                        {{ member.name | append: ' ' | append: member.surname }}
+                        {% if member.site %}</a>{% endif %}
+                        {% if member.affiliation %}<small><small><small></br>{{ member.affiliation }}</small></small></small>{% endif %}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </center>
         </div>
         </br>
         {% endfor %}

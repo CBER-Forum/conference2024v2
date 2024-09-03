@@ -53,6 +53,9 @@ groups:
       - name: Andy
         surname: Naranjo
         affiliation: University of Florida
+      - name: Mike
+        surname: Neuder
+        affiliation: Ethereum Foundation
       - name: Brett
         surname: Palatiello
         affiliation: Eigen Labs

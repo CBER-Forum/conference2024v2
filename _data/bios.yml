@@ -1,0 +1,124 @@
+groups:
+  - title: Speakers
+    columns: false
+    members:
+      - name: Brad
+        surname: Bachu
+        affiliation: Uniswap Labs
+        site: https://bradbachu.github.io/
+        img: https://bradbachu.github.io/brad2.jpg
+        bio: Brad is a researcher at Uniswa Labs. He holds a PhD in Physics from Princeton University, with a focus on high energy theoretical physics. My current research, under the supervision of Nima Arkani-Hamed, involves using on-shell techniques to explore the properties of relativistc scattering amplitudes. 
+      - name: Bruno
+        surname: Biais
+        affiliation: HEC
+        site: https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/biais-bruno
+        img: https://www.hec.edu/sites/default/files/styles/faculty_member/public/academfiles/128248.jpg?itok=rtBAQSs4
+        bio: Bruno Biais holds a PHD in finance from HEC, received the Paris Bourse dissertation award and the CNRS bronze medal. He taught at Toulouse, Carnegie Mellon, Oxford, LSE, and now HEC. His research on finance, contract theory and experimental economics is published in Econometrica, Journal of Political Economy, American Economic Review, Review of Economic Studies, Journal of Finance, Review of Financial Studies and Journal of Financial Economics. He was editor of the Review of Economic Studies and of the Journal of Finance. He is a fellow of the Econometric Society and the Finance Theory group and has been scientific adviser to the NYSE, Euronext, European Central Bank and Bank of England. His current research project, entitled "Welfare, Incentives, and Dynamic Equilibrium" benefits from the support ot the European Resarch Council (ERC Advanced Grant).
+      - name: Brett
+        surname: Falk
+        affiliation: University of Pennsylvania
+        site: https://www.cis.upenn.edu/~fbrett/
+        img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZ-_o-3vtAFZzGhV24px-KMf5bhpF7I_Yxg&s
+        bio: Dr. Falk is a research professor in the department computer and information sciences at the University of Pennsylvania. He is the director of the Crypto and Society Lab, which focuses on 1) privacy and security in digital environments, 2) facilitating transparency and trust. He has published extensively in the field of cryptography, coding theory and network analysis. Dr. Falk also teaches a highly popular course on Blockchain technology for Penn’s Master’s in Computing and Information Technology program. He received his Sc.B. in mathematics from Brown University, and his Ph.D. in mathematics from UCLA.
+      - name: Ed
+        surname: Felten
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Hanna
+        surname: Halaburda
+        affiliation: NYU Stern
+        site: 
+        img: 
+        bio: 
+      - name: Campbell
+        surname: Harvey
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Joel
+        surname: Hasbrouck
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Michael
+        surname: Lee
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Alfred
+        surname: Lehar
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Jiasun
+        surname: Li
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Julian
+        surname: Ma
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Ciamac
+        surname: Moallemi
+        affiliation: Columbia University
+        site: 
+        img: 
+        bio: 
+      - name: Alex
+        surname: Nezlobin
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Brian
+        surname: Nistler
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Mallesh
+        surname: Pai
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Troy
+        surname: Paredes
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Andreas
+        surname: Park
+        affiliation: University of Toronto
+        site: 
+        img: 
+        bio: 
+      - name: Tim
+        surname: Roughgarden
+        affiliation: 
+        site: 
+        img: 
+        bio: 
+      - name: Fahad
+        surname: Saleh
+        affiliation: University of Florida
+        site: 
+        img: 
+        bio: 
+      - name: Fabian
+        surname: Schaar
+        affiliation: 
+        site: 
+        img: 
+        bio: 

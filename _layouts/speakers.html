@@ -19,9 +19,9 @@ layout: default
             <h1 class="display-5">{{ title }}</h1>
             {{ content }}
         </center>
-        {% if site.data.bios %}
+        {% if site.data.speakers %}
         <hr class="my-4">
-        {% assign groups = site.data.bios.groups %}
+        {% assign groups = site.data.speakers.groups %}
         {% for group in groups %}
         {% if group.title %}
         <center>

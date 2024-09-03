@@ -12,7 +12,7 @@ groups:
         affiliation: HEC
         site: https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/biais-bruno
         img: https://www.hec.edu/sites/default/files/styles/faculty_member/public/academfiles/128248.jpg?itok=rtBAQSs4
-        bio: Bruno Biais holds a PHD in finance from HEC, received the Paris Bourse dissertation award and the CNRS bronze medal. He taught at Toulouse, Carnegie Mellon, Oxford, LSE, and now HEC. His research on finance, contract theory and experimental economics is published in Econometrica, Journal of Political Economy, American Economic Review, Review of Economic Studies, Journal of Finance, Review of Financial Studies and Journal of Financial Economics. He was editor of the Review of Economic Studies and of the Journal of Finance. He is a fellow of the Econometric Society and the Finance Theory group and has been scientific adviser to the NYSE, Euronext, European Central Bank and Bank of England. His current research project, entitled "Welfare, Incentives, and Dynamic Equilibrium" benefits from the support ot the European Resarch Council (ERC Advanced Grant).
+        bio: Bruno Biais holds a PHD in finance from HEC, received the Paris Bourse dissertation award and the CNRS bronze medal. He taught at Toulouse, Carnegie Mellon, Oxford, LSE, and now HEC. His research on finance, contract theory and experimental economics is published in Econometrica, Journal of Political Economy, American Economic Review, Review of Economic Studies, Journal of Finance, Review of Financial Studies and Journal of Financial Economics. He was editor of the Review of Economic Studies and of the Journal of Finance. He is a fellow of the Econometric Society and the Finance Theory group and has been scientific adviser to the NYSE, Euronext, European Central Bank and Bank of England.
       - name: Brett
         surname: Falk
         affiliation: University of Pennsylvania
@@ -36,7 +36,7 @@ groups:
         affiliation: Duke University
         site: https://people.duke.edu/~charvey/
         img: https://www.fuqua.duke.edu/shared/images/pics/fac_staff/mkt/fs_charvey.jpg
-        bio: "Campbell R. Harvey is Professor of Finance at the Fuqua School of Business, Duke University and a Research Associate of the National Bureau of Economic Research in Cambridge, Massachusetts. He served as President of the American Finance Association in 2016. Professor Harvey obtained his doctorate at the University of Chicago in business finance. He has served on the faculties of the Stockholm School of Economics, the Helsinki School of Economics, and the Booth School of Business at the University of Chicago. He has also been a visiting scholar at the Board of Governors of the Federal Reserve System. He is a Fellow of the American Finance Association. Harvey received the 2015, 2016, 2022 and 2023 Best Paper Awards from the Journal of Portfolio Management. He has also received nine Graham and Dodd Awards/Scrolls for excellence in financial writing from CFA Institute. He has published over 150 scholarly articles on topics spanning investment finance, emerging markets, corporate finance, behavioral finance, financial econometrics, decentralized finance and computer science. Harvey is a Founding Director of the Duke-CFO Survey. This widely watched quarterly survey polls over 1,500 CFOs worldwide. Harvey serves as Director of Research and Partner at Research Affiliates, LLC  who oversees over $150 billion in client funds as well as Investment Strategy Advisor to the Man Group plc, the world’s largest, publicly listed, global hedge fund provider. Harvey edited the Journal of Finance – the leading scientific journal in his field and one of the premier journals in the economic profession from 2006-2012. Over the past eight years, Professor Harvey has taught Innovation and Cryptoventures at Duke University. The course focuses on decentralized finance and web3 technology. He also teaches an elective focused on advanced investment topics: Global Asset Allocation. His book, DeFi and the Future of Finance was published by John Wiley and Sons in the fall of 2021. He also offers four-course DeFi specialization on Coursera that has attracted over 100,000 students."
+        bio: "Campbell R. Harvey is Professor of Finance at the Fuqua School of Business, Duke University and a Research Associate of the National Bureau of Economic Research in Cambridge, Massachusetts. He served as President of the American Finance Association in 2016. Professor Harvey obtained his doctorate at the University of Chicago in business finance. He has served on the faculties of the Stockholm School of Economics, the Helsinki School of Economics, and the Booth School of Business at the University of Chicago. He has also been a visiting scholar at the Board of Governors of the Federal Reserve System. He is a Fellow of the American Finance Association. Over the past eight years, Professor Harvey has taught Innovation and Cryptoventures at Duke University. The course focuses on decentralized finance and web3 technology. He also teaches an elective focused on advanced investment topics: Global Asset Allocation. His book, DeFi and the Future of Finance was published by John Wiley and Sons in the fall of 2021. He also offers four-course DeFi specialization on Coursera that has attracted over 100,000 students."
       - name: Joel
         surname: Hasbrouck
         affiliation: NYU Stern
@@ -54,13 +54,13 @@ groups:
         affiliation: University of Calgary
         site: https://profiles.ucalgary.ca/alfred-lehar
         img: https://profiles.ucalgary.ca/sites/default/files/styles/ucws_profile_picture/public/2022-03/Profile_headshot_340_420_Alfred_Lehar.jpg?itok=-MHsGeOU
-        bio: Alfred is professor in the finance area. He has been teaching at the Haskayne School of Business since 2005. He received an undergraduate degree and a PhD from the University of Vienna. Prior to Joining Haskayne, Alfred held positions at the University of Vienna and the University of British Columbia. Alfred teaches a introductory finance for the MBAs and a class on Corporate Finance for PhD students. Alfred's areas of research interest include fintech, bank regulation, financial stability, and corporate finance. Alfred is currently researching mining fees and price differentials in Bitcoin markets, decentralized exchanges, and under what conditions renegotiations can facilitate a private sector workout of a financial crisis. He also works on how information produced by financial markets can be optimally used in bank regulation. In his previous research Alfred developed several methods on how to measure the probability of a financial crisis, analyzed conflicts of interest for financial Analysts, and looked at the empirical fit of alternative option pricing models. Alfred’s work has been published in the Review of Financial Studies, Management Science, the Journal of Financial Intermediation, the Journal of Banking and Finance, and the Review of Finance.
+        bio: Alfred is professor in the finance area. He has been teaching at the Haskayne School of Business since 2005. He received an undergraduate degree and a PhD from the University of Vienna. Prior to Joining Haskayne, Alfred held positions at the University of Vienna and the University of British Columbia. Alfred teaches a introductory finance for the MBAs and a class on Corporate Finance for PhD students. Alfred's areas of research interest include fintech, bank regulation, financial stability, and corporate finance. Alfred is currently researching mining fees and price differentials in Bitcoin markets, decentralized exchanges, and under what conditions renegotiations can facilitate a private sector workout of a financial crisis.
       - name: Jiasun
         surname: Li
         affiliation: George Mason University
         site: https://sites.google.com/view/jiasunli
         img: https://www.gmu.edu/sites/g/files/yyqcgq291/files/2021-08/jiasun-li-gmu-finance_0.jpg
-        bio: Dr. Li received Ph.D. in finance from UCLA Anderson School of Management and B.S. in mathematics from Fudan University (Shanghai, China) prior to joining George Mason. His current research interest is at the intersection of economics and computer science, including blockchain technologies and FinTech applications. His research papers analyze node incentives in distributed consensus protocols, crypto tokens' roles in jumpstarting platforms, the industrial organization of cryptocurrency mining pools with implications for blockchain (de-)centralization and energy consumption, factor structures in cryptocurrency returns, manipulations on crypto exchanges, crypto derivatives, cross-chain communication and interoperability, incentive issues in blockchain scaling solutions, reliability of blockchain explorers, fundamental demand for cryptocurrencies, Web3 participant profiles, and the security design of investment crowdfunding for both investors and entrepreneurs to harness "wisdom of the crowd". His other research also covers governance, human-genAI interaction, information economics, market microstructure, mechanism design, the theory of the firm, and traffic control.
+        bio: Dr. Li received Ph.D. in finance from UCLA Anderson School of Management and B.S. in mathematics from Fudan University (Shanghai, China) prior to joining George Mason. His current research interest is at the intersection of economics and computer science, including blockchain technologies and FinTech applications. His research papers analyze node incentives in distributed consensus protocols, crypto tokens' roles in jumpstarting platforms, the industrial organization of cryptocurrency mining pools with implications for blockchain (de-)centralization and energy consumption, factor structures in cryptocurrency returns, manipulations on crypto exchanges, crypto derivatives, cross-chain communication and interoperability, incentive issues in blockchain scaling solutions, reliability of blockchain explorers, fundamental demand for cryptocurrencies, Web3 participant profiles, and the security design of investment crowdfunding for both investors and entrepreneurs to harness "wisdom of the crowd".
       - name: Julian
         surname: Ma
         affiliation: Ethereum Foundation
@@ -93,31 +93,31 @@ groups:
         bio: Mallesh M Pai is the Lay Family Associate Professor in the Department of Economics at Rice University, and a CEPR Research Fellow. He is also the Director of Undergraduate Studies (learn more about the wonderful majors the Department of Economics offers here). His research interests include mechanism design/ auction theory,  and their applications to the design of blockchains and decentralized finance (DeFi) protocols. He has also worked on the economics of privacy, social networks/ social learning and statistical decision theory. Prior to joining Rice, Mallesh was a Janice and Julian Bers Assistant Professor of the Social Sciences at the Department of Economics, University of Pennsylvania. He has a PhD in Managerial Economics and Strategy from the Kellogg School of Management, Northwestern University, and a Bachelor's degree in Computer Science and Engineering from the Indian Institute of Technology, Delhi.
       - name: Troy
         surname: Paredes
-        affiliation: 
-        site: 
-        img: 
-        bio: 
+        affiliation: Paredes Strategies LLC
+        site: https://capital-markets.law.columbia.edu/sites/default/files/styles/cu_crop/public/content/Troy_Paredes.jpg?h=8b406541&itok=VQJZdU7A
+        img: https://www.sifma.org/wp-content/uploads/2019/08/paredes-500x500-c-default.jpg
+        bio: Troy A. Paredes is the founder of Paredes Strategies LLC. From 2008-2013, Paredes was a Commissioner of the U.S. Securities and Exchange Commission, having been appointed by President George W. Bush and confirmed by the U.S. Senate. Paredes served as an SEC Commissioner during an especially historic time at the SEC and for our economy – namely, throughout the financial crisis and its aftermath, including the implementation of the Dodd-Frank Act. He played a key role in rulemakings and other regulatory matters concerning all aspects of the SEC’s mission and securities regulation, including, among other things, antifraud and anticorruption, public company disclosures, capital formation, corporate governance, executive compensation, investment management, investment advisors, broker-dealers, exchanges, credit rating agencies, equity market structure, fixed income markets, derivatives, auditing and accounting, and cybersecurity.
       - name: Andreas
         surname: Park
         affiliation: University of Toronto
-        site: 
-        img: 
-        bio: 
+        site: https://sites.google.com/site/parkandreas/
+        img: https://lh4.googleusercontent.com/nSCb1_kxPUDhK3OCEUH51QoOIPYcpMFq-t63nJ2I9VUGND1YhzNDbfH6D4kGGVNL=w1280
+        bio: Andreas is a Professor of Finance at the University of Toronto. He started his career at UofT in 2003 at the Economics Department, and since July 2015, he is with the Department of Management at UTM and the Rotman School of Management. Andreas is also currently serving as the Research Director at the FinHub, the Rotman School's Financial Innovation lab. He spent the 2014-2015 academic year in Wonderful Copenhagen as a Visiting Professor of Finance at Copenhagen Business School. His research is in financial market structure and, more recently, in FinTech. Andreas is working to gain a better understanding how technological innovations such as blockchain technology or high-frequency algorithmic trading affect financial markets. His research is both theoretical and empirical.
       - name: Tim
         surname: Roughgarden
-        affiliation: 
-        site: 
-        img: 
-        bio: 
+        affiliation: Columbia University and a16z crypto
+        site: https://timroughgarden.org/
+        img: https://timroughgarden.org/photos/headshot1.jpg
+        bio: Tim Roughgarden is a Professor in the Computer Science Department at Columbia University and the Founding Head of Research at a16z crypto. Prior to joining Columbia, he spent 15 years on the computer science faculty at Stanford, following a PhD at Cornell and a postdoc at UC Berkeley. He works on the boundary of computer science and economics, and on the design, analysis, applications, and limitations of algorithms. 
       - name: Fahad
         surname: Saleh
         affiliation: University of Florida
-        site: 
-        img: 
-        bio: 
+        site: https://www.cryptoeconprof.com/
+        img: https://static.wixstatic.com/media/c84beb_86fc8b4de844415abdb858d24da6c4f6~mv2.jpg/v1/fill/w_452,h_450,al_c,lg_1,q_80,enc_auto/McGill-400x400.jpg
+        bio: Fahad is an Associate Professor of Finance at the University of Florida. He is also an Associate Editor at Management Science, a co-organizer of the Crypto and Blockchain Economics Research (CBER) Forum and a fellow of the FinTech Initiative at Cornell University. His research centers upon economic questions associated with blockchain and has been published in leading academic journals such as Management Science, the Review of Financial Studies and the Journal of Financial Economics.
       - name: Fabian
-        surname: Schaar
-        affiliation: 
-        site: 
-        img: 
-        bio: 
+        surname: Schär
+        affiliation: University of Basel
+        site: https://wwz.unibas.ch/de/personen/fabian-schaer/
+        img: https://avatar.unibas.ch/image/2B320A07-B5FF-4D22-ADB0-C07AEFB6B3D3/m
+        bio: Fabian Schär is Professor for Distributed Ledger Technology (Blockchain) and Fintech at the Faculty of Business and Economics at the University of Basel. In addition, he is the Managing Director of the University’s Center for Innovative Finance. He has a PhD in Cryptoassets and Blockchain economics, co-authored the bestselling book “Bitcoin, Blockchain and Cryptoassets”, published by MIT Press and several publications in scientific journals. His research is at the intersection of economics and computer science, with a particular focus on public Blockchains, Cryptoassets and Decentralized Finance protocols.

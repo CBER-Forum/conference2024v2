@@ -39,7 +39,7 @@ layout: default
                     style="display: flex; flex-wrap: wrap; justify-content: center; padding: 0; text-align: center; width: 70%">
                     {% assign members = group.members | sort_natural: 'surname' %}
                     {% for member in members %}
-                    <li {{ extra }} class="fw-light" style="text-align: center;padding-bottom: 15px;">
+                    <li {{ extra }} class="fw-light" style="text-align: center;padding-bottom: 25px;">
                         {% if member.img %}<img src="{{ member.img }}" style="max-height: 100px;"></br>{% endif %}
                         {% if member.site %}<a href="{{ member.site }}" target="_blank">{% endif %}
                             {{ member.name | append: ' ' | append: member.surname }}

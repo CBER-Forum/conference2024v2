@@ -6,7 +6,7 @@ groups:
         affiliation: Uniswap Labs
         site: https://bradbachu.github.io/
         img: https://bradbachu.github.io/brad2.jpg
-        bio: Brad is a researcher at Uniswa Labs. He holds a PhD in Physics from Princeton University, with a focus on high energy theoretical physics. My current research, under the supervision of Nima Arkani-Hamed, involves using on-shell techniques to explore the properties of relativistc scattering amplitudes. 
+        bio: Brad is a researcher at Uniswa Labs. He holds a PhD in Physics from Princeton University, with a focus on high energy theoretical physics. His current research, under the supervision of Nima Arkani-Hamed, involves using on-shell techniques to explore the properties of relativistc scattering amplitudes. 
       - name: Bruno
         surname: Biais
         affiliation: HEC
@@ -59,38 +59,38 @@ groups:
         surname: Li
         affiliation: George Mason University
         site: https://sites.google.com/view/jiasunli
-        img: https://lh3.googleusercontent.com/-fv4t5Q5kHm9rB2jR0oB2uz0bwJ7q6BV93z5oTMDJyP1pQVTTlCOHQa_1MnKBdaD0Ex7L0QF8lEFI9IL4sXc6EBEd_hXxc-skx2XNE9-xzs=w1280
+        img: https://www.gmu.edu/sites/g/files/yyqcgq291/files/2021-08/jiasun-li-gmu-finance_0.jpg
         bio: Dr. Li received Ph.D. in finance from UCLA Anderson School of Management and B.S. in mathematics from Fudan University (Shanghai, China) prior to joining George Mason. His current research interest is at the intersection of economics and computer science, including blockchain technologies and FinTech applications. His research papers analyze node incentives in distributed consensus protocols, crypto tokens' roles in jumpstarting platforms, the industrial organization of cryptocurrency mining pools with implications for blockchain (de-)centralization and energy consumption, factor structures in cryptocurrency returns, manipulations on crypto exchanges, crypto derivatives, cross-chain communication and interoperability, incentive issues in blockchain scaling solutions, reliability of blockchain explorers, fundamental demand for cryptocurrencies, Web3 participant profiles, and the security design of investment crowdfunding for both investors and entrepreneurs to harness "wisdom of the crowd". His other research also covers governance, human-genAI interaction, information economics, market microstructure, mechanism design, the theory of the firm, and traffic control.
       - name: Julian
         surname: Ma
-        affiliation: 
-        site: 
-        img: 
-        bio: 
+        affiliation: Ethereum Foundation
+        site: https://twitter.com/_julianma
+        img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOON4FF2D0xctrneY6qnLrIuhMfISD1OW-Xg&s
+        bio: Julian is a researcher at the Robust Incentives Group of the Ethereum Foundation.
       - name: Ciamac
         surname: Moallemi
         affiliation: Columbia University
-        site: 
-        img: 
-        bio: 
+        site: https://moallemi.com/ciamac/
+        img: https://moallemi.com/ciamac/img/20231114-TLPS-6618-2-w1.png
+        bio: Ciamac is the William von Mueffling Professor of Business in the Decision, Risk, & Operations Division of the Graduate School of Business at Columbia University, and the Director of the Briger Family Digital Finance Lab. 
       - name: Alex
         surname: Nezlobin
-        affiliation: 
-        site: 
-        img: 
-        bio: 
+        affiliation: London School of Economics
+        site: https://sites.google.com/site/alexanderanezlobin/alexander-nezlobin
+        img: https://lh5.googleusercontent.com/XM44tXkf1K8p7MnaHjGLKeWTkZ1QAhg2pGgWUkHzupe3iPH9TNikoZN_g0d4Q4hnI4h6hEWfIpEA4FbD76YGUgbNvKWfJY7E5YN0kHmw6qD4-2hdeuGs51RDKnBgmjN77Q=w1280
+        bio: Alex is a Professor of Accounting at the London School of Economics. Prior to LSE, he got his PhD in Business from Stanford University and worked as a professor at the business schools of UC Berkeley and New York University. He holds a CPA license in the State of California but rarely if ever uses it.
       - name: Brian
         surname: Nistler
-        affiliation: 
-        site: 
-        img: 
-        bio: 
+        affiliation: Uniswap Foundation
+        site: https://www.linkedin.com/in/brian-nistler/
+        img: https://cdn.prod.website-files.com/66475be2cb1cc5216caf2b06/664e4d53c30926b57260c6b9_Team_Brian.webp
+        bio: Brian is an in-house counsel focused on digital asset trading platforms.
       - name: Mallesh
         surname: Pai
         affiliation: 
-        site: 
-        img: 
-        bio: 
+        site: https://sites.google.com/view/malleshpai/
+        img: https://lh4.googleusercontent.com/IEVMLku2bJlNcSJNPFAGQHdwd-A6qMkvGiVY5j2cuheomPRG7i1dsmQZGeyoftuW4L15mYdCAkJ0GxtuDMNJ8JHM0P4yfZWyZHnwoOxhf_RJgyoQ=w1280
+        bio: Mallesh M Pai is the Lay Family Associate Professor in the Department of Economics at Rice University, and a CEPR Research Fellow. He is also the Director of Undergraduate Studies (learn more about the wonderful majors the Department of Economics offers here). His research interests include mechanism design/ auction theory,  and their applications to the design of blockchains and decentralized finance (DeFi) protocols. He has also worked on the economics of privacy, social networks/ social learning and statistical decision theory. Prior to joining Rice, Mallesh was a Janice and Julian Bers Assistant Professor of the Social Sciences at the Department of Economics, University of Pennsylvania. He has a PhD in Managerial Economics and Strategy from the Kellogg School of Management, Northwestern University, and a Bachelor's degree in Computer Science and Engineering from the Indian Institute of Technology, Delhi.
       - name: Troy
         surname: Paredes
         affiliation: 

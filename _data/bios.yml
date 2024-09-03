@@ -1,6 +1,5 @@
 groups:
-  - title: Speakers
-    columns: false
+  - columns: false
     members:
       - name: Brad
         surname: Bachu
@@ -58,10 +57,10 @@ groups:
         bio: Alfred is professor in the finance area. He has been teaching at the Haskayne School of Business since 2005. He received an undergraduate degree and a PhD from the University of Vienna. Prior to Joining Haskayne, Alfred held positions at the University of Vienna and the University of British Columbia. Alfred teaches a introductory finance for the MBAs and a class on Corporate Finance for PhD students. Alfred's areas of research interest include fintech, bank regulation, financial stability, and corporate finance. Alfred is currently researching mining fees and price differentials in Bitcoin markets, decentralized exchanges, and under what conditions renegotiations can facilitate a private sector workout of a financial crisis. He also works on how information produced by financial markets can be optimally used in bank regulation. In his previous research Alfred developed several methods on how to measure the probability of a financial crisis, analyzed conflicts of interest for financial Analysts, and looked at the empirical fit of alternative option pricing models. Alfred’s work has been published in the Review of Financial Studies, Management Science, the Journal of Financial Intermediation, the Journal of Banking and Finance, and the Review of Finance.
       - name: Jiasun
         surname: Li
-        affiliation: 
-        site: 
-        img: 
-        bio: 
+        affiliation: George Mason University
+        site: https://sites.google.com/view/jiasunli
+        img: https://lh3.googleusercontent.com/-fv4t5Q5kHm9rB2jR0oB2uz0bwJ7q6BV93z5oTMDJyP1pQVTTlCOHQa_1MnKBdaD0Ex7L0QF8lEFI9IL4sXc6EBEd_hXxc-skx2XNE9-xzs=w1280
+        bio: Dr. Li received Ph.D. in finance from UCLA Anderson School of Management and B.S. in mathematics from Fudan University (Shanghai, China) prior to joining George Mason. His current research interest is at the intersection of economics and computer science, including blockchain technologies and FinTech applications. His research papers analyze node incentives in distributed consensus protocols, crypto tokens' roles in jumpstarting platforms, the industrial organization of cryptocurrency mining pools with implications for blockchain (de-)centralization and energy consumption, factor structures in cryptocurrency returns, manipulations on crypto exchanges, crypto derivatives, cross-chain communication and interoperability, incentive issues in blockchain scaling solutions, reliability of blockchain explorers, fundamental demand for cryptocurrencies, Web3 participant profiles, and the security design of investment crowdfunding for both investors and entrepreneurs to harness "wisdom of the crowd". His other research also covers governance, human-genAI interaction, information economics, market microstructure, mechanism design, the theory of the firm, and traffic control.
       - name: Julian
         surname: Ma
         affiliation: 

@@ -39,7 +39,7 @@ layout: default
                     {% assign members = group.members | sort_natural: 'surname' %}
                     {% for member in members %}
                     <li {{ extra }} class="fw-light" style="text-align: center;vertical-align: middle;">
-                        {% if member.img %}<img src="{{ member.img }}" style="max-height: 300px;">{% endif %}
+                        {% if member.img %}<img src="{{ member.img }}" style="max-height: 300px;"></br>{% endif %}
                         {% if member.site %}<a href="{{ member.site }}" target="_blank">{% endif %}
                         {{ member.name | append: ' ' | append: member.surname }}
                         {% if member.site %}</a>{% endif %}

@@ -14,16 +14,28 @@ legend:
 days:
 - name: Workshop Day (Friday, October 25th)
   events:
+    - title: Welcome and Opening Remarks
+      subtitle: Agostino Capponi (Columbia University)
+      category: Moderation
+      time: 08:00am - 08:10am
+    - title: CBER CtCe Research Funding Announcement
+      subtitle: Andreas Park (University of Toronto) and Fahad Saleh (University of Florida)
+      category: Moderation
+      time: 08:10am - 08:15am
     - title: 'Session 1: AMMs and Uniswap v4'
       session: true
-    - title: Economics of AMMs
+    - title: Economics of Automated Market Makers
       subtitle: Andreas Park (University of Toronto)
       category: Talk
-      time: Time TBD
-    - title: Uniswap v4 Overview
+      time: 08:15am - 09:00am
+    - title: Overview of Uniswap v4
       subtitle: Fahad Saleh (University of Florida)
       category: Talk
-      time: Time TBD
+      time: 09:00am - 09:45am
+    - title: Coffee Break
+      subtitle: 
+      category: Moderation
+      time: 09:45am - 10:00am
     - title: 'Session 2: Maximal Extractable Value (MEV)'
       session: true
     - title: Introduction to MEV

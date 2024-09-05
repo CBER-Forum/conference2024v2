@@ -135,14 +135,14 @@ days:
       category: Moderation
       time: 01:45pm - 02:00pm
     - title: 'Decentralized Exchanges'
-      subtitle: 'Session Chair: Evgeny Lyandres )Tel Aviv University)'
+      subtitle: 'Session Chair: Evgeny Lyandres (Tel Aviv University)'
       session: true
     - title: Automated Market Makers and the Value of Adaptive Fees
-      subtitle: 'Authors: David Cao (University of Pennsylvania), Brett Falk (University of Pennsylvania), Gerry Tsoukalas (Boston University), Discussant: Alex Nezlobin (London School of Economics)'
+      subtitle: 'Authors: David Cao (University of Pennsylvania), Brett Falk (University of Pennsylvania), Gerry Tsoukalas (Boston University), Discussant: Alex Nezlobin (London School of Economics).'
       category: Talk
       time: 02:00pm - 02:30pm
     - title: An Analysis of Intent-Based Markets
-      subtitle: 'Authors: Tarun Chitra (Gauntlet), Kshitij Kulkarni (UC Berkeley), Mallesh Pai (Rice University), Theo Diamandis (MIT), Discussant: Andrea Canidio (CoW Protocol)'
+      subtitle: 'Authors: Tarun Chitra (Gauntlet), Kshitij Kulkarni (UC Berkeley), Mallesh Pai (Rice University), Theo Diamandis (MIT), Discussant: Andrea Canidio (CoW Protocol).'
       category: Talk
       time: 02:30pm - 03:00pm
     - title: 'Research Paper Session'
@@ -153,7 +153,7 @@ days:
       category: Moderation
       time: 04:00pm - 04:15pm
     - title: 'Panel: The Economic Limits of Permissionless Consensus'
-      subtitle: 'Moderator: Hanna Halaburda (NYU Stern), Panelists: Tim Roughgarden (Author, Columbia University), Katya Malinova (Discussant, McMaster University)'
+      subtitle: 'Moderator: Hanna Halaburda (NYU Stern), Panelists: Tim Roughgarden (Author, Columbia University), Katya Malinova (Discussant, McMaster University).'
       category: Panel
       time: 04:15pm - 05:00pm
     - title: CBER Forum Announcements

@@ -96,7 +96,7 @@ days:
 - name: Research Day (Saturday, October 26th)
   events:
     - title: 'Panel: Evolution of Decentralized Exchange: Risks, Benefits, and Oversight'
-      subtitle: 'Troy Paredes (Former SEC Commissioner and Founder, Paredes Strategies LLC), Panelists: Campbell Harvey (Author, Duke University), Brian Nistler (Discussant, Uniswap Foundation)'
+      subtitle: 'Moderator: Troy Paredes (Former SEC Commissioner and Founder, Paredes Strategies LLC), Panelists: Campbell Harvey (Author, Duke University), Brian Nistler (Discussant, Uniswap Foundation).'
       category: Panel
       time: 08:30am - 09:15am
     - title: Coffee Break
@@ -126,23 +126,41 @@ days:
       subtitle: 'Moderator: Gordon Liao (Circle)'
       category: Moderation
       time: 11:30am - 01:00pm
-    - title: Automated Market Makers and the Value of Adaptive Fees
-      subtitle: Brett Falk (University of Pennsylvania)
-      category: Talk
-      time: 09:15am - 09:15am
-    - title: TBD
-      subtitle: TBD
-      category: Talk
-      time: Time TBD
-    - title: 'Keynote: What the Crypto Community should know about Financial Economics'
-      subtitle: TBD
+    - title: 'Keynote: Do Cryptocurrencies Matter From An Economic Perspective?'
+      subtitle: Bruno Biais (Professor of Finance, HEC Paris)
       category: Keynote
-      time: Time TBD
+      time: 01:00pm - 01:45pm
+    - title: Coffee Break
+      subtitle: 
+      category: Moderation
+      time: 01:45pm - 02:00pm
+    - title: 'Decentralized Exchanges'
+      subtitle: 'Session Chair: Evgeny Lyandres )Tel Aviv University)'
+      session: true
+    - title: Automated Market Makers and the Value of Adaptive Fees
+      subtitle: 'Authors: David Cao (University of Pennsylvania), Brett Falk (University of Pennsylvania), Gerry Tsoukalas (Boston University), Discussant: Alex Nezlobin (London School of Economics)'
+      category: Talk
+      time: 02:00pm - 02:30pm
+    - title: An Analysis of Intent-Based Markets
+      subtitle: 'Authors: Tarun Chitra (Gauntlet), Kshitij Kulkarni (UC Berkeley), Mallesh Pai (Rice University), Theo Diamandis (MIT), Discussant: Andrea Canidio (CoW Protocol)'
+      category: Talk
+      time: 02:30pm - 03:00pm
+    - title: 'Research Paper Session'
+      subtitle: 
+      session: true
+    - title: Coffee Break
+      subtitle: 
+      category: Moderation
+      time: 04:00pm - 04:15pm
     - title: 'Panel: The Economic Limits of Permissionless Consensus'
-      subtitle: 'Moderator: Hanna Halaburda (NYU Stern), Panelists: Tim Roughgarden (Columbia University), more TBD'
+      subtitle: 'Moderator: Hanna Halaburda (NYU Stern), Panelists: Tim Roughgarden (Author, Columbia University), Katya Malinova (Discussant, McMaster University)'
       category: Panel
-      time: Time TBD
-    - title: 'Award: 2nd CBER-Circle Insight Prize Winner Presentation'
-      subtitle: TBD
-      category: Award
-      time: Time TBD
+      time: 04:15pm - 05:00pm
+    - title: CBER Forum Announcements
+      subtitle: Andreas Park (University of Toronto) and Fahad Saleh (University of Florida)
+      category: Moderation
+      time: 05:00pm - 05:10pm
+    - title: Concluding Remarks
+      subtitle: Agostino Capponi (Columbia University)
+      category: Moderation
+      time: 05:10pm - 05:15pm

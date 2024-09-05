@@ -22,7 +22,7 @@ days:
       subtitle: Andreas Park (University of Toronto) and Fahad Saleh (University of Florida)
       category: Moderation
       time: 08:10am - 08:15am
-    - title: 'Session 1: AMMs and Uniswap v4'
+    - title: 'AMMs and Uniswap v4'
       subtitle: 'Session Chair: Xin Wan (Uniswap Labs)'
       session: true
     - title: Economics of Automated Market Makers
@@ -37,7 +37,7 @@ days:
       subtitle: 
       category: Moderation
       time: 09:45am - 10:00am
-    - title: 'Session 2: Maximal Extractable Value (MEV)'
+    - title: 'Maximal Extractable Value (MEV)'
       subtitle: 'Session Chair: Nir Chemaya (University of California Santa Barbara)'
       session: true
     - title: Overview of Maximal Extractable Value
@@ -52,7 +52,7 @@ days:
       subtitle: Eigen Layer Presentation
       category: Moderation
       time: 11:30am - 01:00pm
-    - title: 'Session 3: Layer 2s'
+    - title: 'Roll Ups'
       subtitle: 'Session Chair: Aviv Yaish (Yale University)'
       session: true
     - title: Overview of Rollups
@@ -67,7 +67,7 @@ days:
       subtitle: 
       category: Moderation
       time: 02:30pm - 02:45pm
-    - title: 'Session 4: Order Flow Auctions'
+    - title: 'Order Flow Auctions'
       subtitle: 'Session Chair: Mahendrarajah Nimalendran (University of Florida)'
       session: true
     - title: Market Microstrucure Concepts for Cryptoeconomics
@@ -78,7 +78,7 @@ days:
       subtitle: Brad Bachu (Uniswap Labs)
       category: Talk
       time: 03:30pm - 04:15pm
-    - title: 'Session 5: Real-World Hook Design'
+    - title: 'Real-World Hook Design'
       subtitle: 'Session Chair: Kenneth Ng (Uniswap Foundation)'
       session: true
     - title: MEV-Aware Hook Design
@@ -95,10 +95,41 @@ days:
       time: 05:00pm - 05:15pm
 - name: Research Day (Saturday, October 26th)
   events:
+    - title: 'Panel: Evolution of Decentralized Exchange: Risks, Benefits, and Oversight'
+      subtitle: 'Troy Paredes (Former SEC Commissioner and Founder, Paredes Strategies LLC), Panelists: Campbell Harvey (Author, Duke University), Brian Nistler (Discussant, Uniswap Foundation)'
+      category: Panel
+      time: 08:30am - 09:15am
+    - title: Coffee Break
+      subtitle: 
+      category: Moderation
+      time: 09:15am - 09:30am
+    - title: 'Privacy in the Cryptoeconomy'
+      subtitle: 'Session Chair: Yuliya Guseva (Rutgers University)'
+      session: true
+    - title: 'Regulating Decentralized Systems: Evidence from Sanctions on Tornado Cash'
+      subtitle: 'Authors: Anders Brownworth (Radius Inc.), Jon Durfee (Federal Reserve Bank of New York), Michael Junho Lee (Federal Reserve Bank of New York), Antoine Martin (Swiss National Bank). Discussant: Alfred Lehar (University of Calgary).'
+      category: Talk
+      time: 09:30am - 10:00am
+    - title: 'Blockchain Privacy and Regulatory Compliance: Towards a Practical Equilibrium'
+      subtitle: 'Authors: Vitalik Buterin (Ethereum Foundation), Jacob Illum (Chainalysis), Matthias Nadler (University of Basel), Fabian Sch¨ar (University of Basel), Ameen Soleimani (Privacy Pools). Discussant: Jiasun Li (George Mason University).'
+      category: Talk
+      time: 10:00am - 10:30am
+    - title: Coffee Break
+      subtitle: 
+      category: Moderation
+      time: 10:30am - 10:45am
+    - title: 'Special Session: Zero Knowledge - Introduction and DeFi Implications'
+      subtitle: 'Benedikt B¨unz (New York University)'
+      category: Keynote
+      time: 10:45am - 11:30am
+    - title: Lunch with 2nd CBER-Circle Insight Award Presentation
+      subtitle: 'Moderator: Gordon Liao (Circle)'
+      category: Moderation
+      time: 11:30am - 01:00pm
     - title: Automated Market Makers and the Value of Adaptive Fees
       subtitle: Brett Falk (University of Pennsylvania)
       category: Talk
-      time: Time TBD
+      time: 09:15am - 09:15am
     - title: TBD
       subtitle: TBD
       category: Talk
@@ -109,10 +140,6 @@ days:
       time: Time TBD
     - title: 'Panel: The Economic Limits of Permissionless Consensus'
       subtitle: 'Moderator: Hanna Halaburda (NYU Stern), Panelists: Tim Roughgarden (Columbia University), more TBD'
-      category: Panel
-      time: Time TBD
-    - title: 'Panel: Regulation of Decentralized Exchanges'
-      subtitle: 'Moderator: TBD, Panelists: Campbell Harvey (Duke University), more TBD'
       category: Panel
       time: Time TBD
     - title: 'Award: 2nd CBER-Circle Insight Prize Winner Presentation'

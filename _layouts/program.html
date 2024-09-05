@@ -96,6 +96,8 @@ layout: default
                             </ul>
                             {% assign legend = day.events | map: 'category' | compact | uniq %}
                             {% assign size = legend | size %}
+                            {% if site.data.program.legend.hide %}
+                            {% else %}
                             {% if size > 0 %}
                             <div class="mt-4 mb-2">
                                 <center>
@@ -117,6 +119,7 @@ layout: default
                                     {% endfor %}
                                 </center>
                             </div>
+                            {% endif %}
                             {% endif %}
                         </div>
                     </div>

@@ -1,12 +1,17 @@
 legend:
   title: Legend
+  hide: true
   categories:
-    - name: Moderation
+    - name: Remarks and Announcements
       color: red-6
+    - name: Breaks and Food
+      color: pink-2
     - name: Talk
       color: blue-6
     - name: Keynote
       color: teal-6
+    - name: Special Session
+      color: green-3
     - name: Panel
       color: lime-3
     - name: Award
@@ -16,11 +21,11 @@ days:
   events:
     - title: Welcome and Opening Remarks
       subtitle: Agostino Capponi (Columbia University)
-      category: Moderation
+      category: Remarks and Announcements
       time: 08:00am - 08:10am
     - title: CBER CtCe Research Funding Announcement
       subtitle: Andreas Park (University of Toronto) and Fahad Saleh (University of Florida)
-      category: Moderation
+      category: Remarks and Announcements
       time: 08:10am - 08:15am
     - title: 'AMMs and Uniswap v4'
       subtitle: 'Session Chair: Xin Wan (Uniswap Labs)'
@@ -35,7 +40,7 @@ days:
       time: 09:00am - 09:45am
     - title: Coffee Break
       subtitle: 
-      category: Moderation
+      category: Breaks and Food
       time: 09:45am - 10:00am
     - title: 'Maximal Extractable Value (MEV)'
       subtitle: 'Session Chair: Nir Chemaya (University of California Santa Barbara)'
@@ -50,7 +55,7 @@ days:
       time: 10:45am - 11:30am
     - title: Lunch
       subtitle: Eigen Layer Presentation
-      category: Moderation
+      category: Breaks and Food
       time: 11:30am - 01:00pm
     - title: 'Roll Ups'
       subtitle: 'Session Chair: Aviv Yaish (Yale University)'
@@ -65,7 +70,7 @@ days:
       time: 01:45pm - 02:30pm
     - title: Coffee Break
       subtitle: 
-      category: Moderation
+      category: Breaks and Food
       time: 02:30pm - 02:45pm
     - title: 'Order Flow Auctions'
       subtitle: 'Session Chair: Mahendrarajah Nimalendran (University of Florida)'
@@ -91,7 +96,7 @@ days:
       time: 04:38pm - 05:00pm
     - title: Concluding Remarks
       subtitle: George Deodatis (Vice Dean for Research at Columbia Engineering)
-      category: Moderation
+      category: Remarks and Announcements
       time: 05:00pm - 05:15pm
 - name: Research Day (Saturday, October 26th)
   events:
@@ -101,7 +106,7 @@ days:
       time: 08:30am - 09:15am
     - title: Coffee Break
       subtitle: 
-      category: Moderation
+      category: Breaks and Food
       time: 09:15am - 09:30am
     - title: 'Privacy in the Cryptoeconomy'
       subtitle: 'Session Chair: Yuliya Guseva (Rutgers University)'
@@ -116,15 +121,15 @@ days:
       time: 10:00am - 10:30am
     - title: Coffee Break
       subtitle: 
-      category: Moderation
+      category: Breaks and Food
       time: 10:30am - 10:45am
     - title: 'Special Session: Zero Knowledge - Introduction and DeFi Implications'
       subtitle: 'Benedikt B¨unz (New York University)'
-      category: Keynote
+      category: Special Session
       time: 10:45am - 11:30am
     - title: Lunch with 2nd CBER-Circle Insight Award Presentation
       subtitle: 'Moderator: Gordon Liao (Circle)'
-      category: Moderation
+      category: Breaks and Food
       time: 11:30am - 01:00pm
     - title: 'Keynote: Do Cryptocurrencies Matter From An Economic Perspective?'
       subtitle: Bruno Biais (Professor of Finance, HEC Paris)
@@ -132,7 +137,7 @@ days:
       time: 01:00pm - 01:45pm
     - title: Coffee Break
       subtitle: 
-      category: Moderation
+      category: Breaks and Food
       time: 01:45pm - 02:00pm
     - title: 'Decentralized Exchanges'
       subtitle: 'Session Chair: Evgeny Lyandres (Tel Aviv University)'
@@ -150,7 +155,7 @@ days:
       session: true
     - title: Coffee Break
       subtitle: 
-      category: Moderation
+      category: Breaks and Food
       time: 04:00pm - 04:15pm
     - title: 'Panel: The Economic Limits of Permissionless Consensus'
       subtitle: 'Moderator: Hanna Halaburda (NYU Stern), Panelists: Tim Roughgarden (Author, Columbia University), Katya Malinova (Discussant, McMaster University).'
@@ -158,9 +163,9 @@ days:
       time: 04:15pm - 05:00pm
     - title: CBER Forum Announcements
       subtitle: Andreas Park (University of Toronto) and Fahad Saleh (University of Florida)
-      category: Moderation
+      category: Remarks and Announcements
       time: 05:00pm - 05:10pm
     - title: Concluding Remarks
       subtitle: Agostino Capponi (Columbia University)
-      category: Moderation
+      category: Remarks and Announcements
       time: 05:10pm - 05:15pm

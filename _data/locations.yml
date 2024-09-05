@@ -1,9 +1,9 @@
-center: 40.80756798300651, -73.96249759814678
+center: 40.807545246885766, -73.96016700202027
 zoom: 13
 
 markers:
-  - title: Columbia University
-    latlng: 40.80756798300651, -73.96249759814678
+  - title: Italian Academy, Columbia University (1161 Amsterdam Avenue New York, NY 10027)
+    latlng: 40.807545246885766, -73.96016700202027
 
 # areas:
 #   - text:

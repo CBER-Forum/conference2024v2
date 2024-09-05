@@ -2,3 +2,6 @@ buttons:
   - text: Tickets
     url: https://www.eventbrite.com/e/cber-crafting-the-cryptoeconomy-conference-registration-1002324990027
     disabled: false
+  - text: Program
+    url: http://ctce.cber-forum.org/assets/pdfs/CBER_CtCe_Conference.pdf
+    disabled: false

@@ -17,26 +17,28 @@ days:
     - title: Welcome and Opening Remarks
       subtitle: Agostino Capponi (Columbia University)
       category: Moderation
-      time: 08:00am - 08:10am
+      time: 08:00a - 08:10am
     - title: CBER CtCe Research Funding Announcement
       subtitle: Andreas Park (University of Toronto) and Fahad Saleh (University of Florida)
       category: Moderation
-      time: 08:10am - 08:15am
+      time: 08:10a - 08:15am
     - title: 'Session 1: AMMs and Uniswap v4'
+      subtitle: 'Session Chair: Xin Wan (Uniswap Labs)'
       session: true
     - title: Economics of Automated Market Makers
       subtitle: Andreas Park (University of Toronto)
       category: Talk
-      time: 08:15am - 09:00am
+      time: 08:15a - 09:00am
     - title: Overview of Uniswap v4
       subtitle: Fahad Saleh (University of Florida)
       category: Talk
-      time: 09:00am - 09:45am
+      time: 09:00a - 09:45am
     - title: Coffee Break
       subtitle: 
       category: Moderation
-      time: 09:45am - 10:00am
+      time: 09:45a - 10:00am
     - title: 'Session 2: Maximal Extractable Value (MEV)'
+      subtitle: 'Session Chair: Nir Chemaya (University of California Santa Barbara)'
       session: true
     - title: Introduction to MEV
       subtitle: TBD

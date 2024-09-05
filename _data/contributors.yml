@@ -68,3 +68,6 @@ groups:
       - name: Xin
         surname: Wan
         affiliation: Uniswap Labs
+      - name: David
+        surname: Yermack
+        affiliation: NYU Stern

@@ -53,25 +53,46 @@ days:
       category: Moderation
       time: 11:30am - 01:00pm
     - title: 'Session 3: Layer 2s'
+      subtitle: 'Session Chair: Aviv Yaish (Yale University)'
       session: true
-    - title: Introduction to Rollups
+    - title: Overview of Rollups
       subtitle: Ed Felten (Offchain Labs)
       category: Talk
-      time: Time TBD
-    - title: Hook Design for L2 implementations
+      time: 01:00pm - 01:45pm
+    - title: Hook Design for Rollups
       subtitle: TBD
       category: Talk
-      time: Time TBD
-    - title: 'Session 4: RFQs and OFAs'
+      time: 01:45pm - 02:30pm
+    - title: Coffee Break
+      subtitle: 
+      category: Moderation
+      time: 02:30pm - 02:45pm
+    - title: 'Session 4: Order Flow Auctions'
+      subtitle: 'Session Chair: Mahendrarajah Nimalendran (University of Florida)'
       session: true
-    - title: RFQs and OFAs in Traditional Markets
+    - title: Market Microstrucure Concepts for Cryptoeconomics
       subtitle: Joel Hasbrouck (NYU Stern)
       category: Talk
-      time: Time TBD
-    - title: The ecosystem of RFQs and OFAs on blockchain
+      time: 02:45pm - 03:30pm
+    - title: The Ecosystem of OFAs in the Cryptoeconomy
       subtitle: Brad Bachu (Uniswap Labs)
       category: Talk
-      time: Time TBD
+      time: 03:30pm - 04:15pm
+    - title: 'Session 5: Real-World Hook Design'
+      subtitle: 'Session Chair: Kenneth Ng (Uniswap Foundation)'
+      session: true
+    - title: MEV-Aware Hook Design
+      subtitle: Karthik Srinivasan (Sorella Labs)
+      category: Talk
+      time: 04:15pm - 04:37pm
+    - title: TBD
+      subtitle: TBD
+      category: Talk
+      time: 04:38pm - 05:00pm
+    - title: Concluding Remarks
+      subtitle: George Deodatis (Vice Dean for Research at Columbia Engineering)
+      category: Moderation
+      time: 05:00pm - 05:15pm
 - name: Research Day (Saturday, October 26th)
   events:
     - title: Automated Market Makers and the Value of Adaptive Fees

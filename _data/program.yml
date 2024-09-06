@@ -101,7 +101,7 @@ days:
 - name: Research Day (Saturday, October 26th)
   events:
     - title: 'Panel: Evolution of Decentralized Exchange: Risks, Benefits, and Oversight'
-      subtitle: 'Moderator: Troy Paredes (Former SEC Commissioner and Founder, Paredes Strategies LLC), Panelists: Campbell Harvey (Author, Duke University), Brian Nistler (Discussant, Uniswap Foundation).'
+      subtitle: 'Moderator: Troy Paredes (Former SEC Commissioner and Founder, Paredes Strategies LLC). Panelists: Campbell Harvey (Author, Duke University), Brian Nistler (Discussant, Uniswap Foundation).'
       category: Panel
       time: 08:30am - 09:15am
     - title: Coffee Break
@@ -158,7 +158,7 @@ days:
       category: Breaks and Food
       time: 04:00pm - 04:15pm
     - title: 'Panel: The Economic Limits of Permissionless Consensus'
-      subtitle: 'Moderator: Hanna Halaburda (NYU Stern), Panelists: Tim Roughgarden (Author, Columbia University), Katya Malinova (Discussant, McMaster University).'
+      subtitle: 'Moderator: Hanna Halaburda (NYU Stern). Panelists: Tim Roughgarden (Author, Columbia University), Katya Malinova (Discussant, McMaster University).'
       category: Panel
       time: 04:15pm - 05:00pm
     - title: CBER Forum Announcements

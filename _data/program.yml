@@ -57,43 +57,36 @@ days:
       subtitle: Eigen Layer Presentation
       category: Breaks and Food
       time: 11:30am - 01:00pm
-    - title: 'Roll Ups'
-      subtitle: 'Session Chair: Aviv Yaish (Yale University)'
-      session: true
-    - title: Overview of Rollups
-      subtitle: Ed Felten (Offchain Labs)
-      category: Talk
-      time: 01:00pm - 01:45pm
-    - title: Hook Design for Rollups
-      subtitle: TBD
-      category: Talk
-      time: 01:45pm - 02:30pm
-    - title: Coffee Break
-      subtitle: 
-      category: Breaks and Food
-      time: 02:30pm - 02:45pm
     - title: 'Order Flow Auctions'
       subtitle: 'Session Chair: Mahendrarajah Nimalendran (University of Florida)'
       session: true
     - title: Market Microstrucure Concepts for Cryptoeconomics
       subtitle: Joel Hasbrouck (NYU Stern)
       category: Talk
-      time: 02:45pm - 03:30pm
+      time: 01:00pm - 01:45pm
     - title: The Ecosystem of OFAs in the Cryptoeconomy
       subtitle: Brad Bachu (Uniswap Labs)
       category: Talk
-      time: 03:30pm - 04:15pm
+      time: 01:45pm - 02:30pm
+    - title: Coffee Break
+      subtitle: 
+      category: Breaks and Food
+      time: 02:45pm - 03:00pm
     - title: 'Real-World Hook Design'
       subtitle: 'Session Chair: Kenneth Ng (Uniswap Foundation)'
       session: true
     - title: MEV-Aware Hook Design
       subtitle: Karthik Srinivasan (Sorella Labs)
       category: Talk
-      time: 04:15pm - 04:37pm
-    - title: TBD
-      subtitle: TBD
-      category: Talk
-      time: 04:38pm - 05:00pm
+      time: 02:45pm - 03:05pm
+    - title: Coffee Break
+      subtitle: 
+      category: Breaks and Food
+      time: 03:45pm - 04:00pm
+    - title: 'Keynote: Do Cryptocurrencies Matter From An Economic Perspective?'
+      subtitle: 'Speaker: Bruno Biais (Professor of Finance, HEC Paris). Moderator: Kose John (NYU Stern).'
+      category: Keynote
+      time: 04:00pm - 05:00pm
     - title: Concluding Remarks
       subtitle: George Deodatis (Vice Dean for Research at Columbia Engineering)
       category: Remarks and Announcements
@@ -124,42 +117,66 @@ days:
       category: Breaks and Food
       time: 10:30am - 10:45am
     - title: 'Special Session: Zero Knowledge - Introduction and DeFi Implications'
-      subtitle: 'Benedikt B¨unz (New York University)'
+      subtitle: 'Speaker: Benedikt B¨unz (New York University). Moderator: Jay Sethuraman (Columbia University).'
       category: Special Session
       time: 10:45am - 11:30am
     - title: Lunch with 2nd CBER-Circle Insight Award Presentation
       subtitle: 'Moderator: Gordon Liao (Circle)'
       category: Breaks and Food
       time: 11:30am - 01:00pm
-    - title: 'Keynote: Do Cryptocurrencies Matter From An Economic Perspective?'
-      subtitle: Bruno Biais (Professor of Finance, HEC Paris)
-      category: Keynote
-      time: 01:00pm - 01:45pm
-    - title: Coffee Break
-      subtitle: 
-      category: Breaks and Food
-      time: 01:45pm - 02:00pm
     - title: 'Decentralized Exchanges'
       subtitle: 'Session Chair: Evgeny Lyandres (Tel Aviv University)'
       session: true
     - title: Automated Market Makers and the Value of Adaptive Fees
       subtitle: 'Authors: David Cao (University of Pennsylvania), Brett Falk (University of Pennsylvania), Gerry Tsoukalas (Boston University), Discussant: Alex Nezlobin (London School of Economics).'
       category: Talk
-      time: 02:00pm - 02:30pm
+      time: 01:00pm - 01:30pm
     - title: An Analysis of Intent-Based Markets
       subtitle: 'Authors: Tarun Chitra (Gauntlet), Kshitij Kulkarni (UC Berkeley), Mallesh Pai (Rice University), Theo Diamandis (MIT), Discussant: Andrea Canidio (CoW Protocol).'
       category: Talk
-      time: 02:30pm - 03:00pm
-    - title: 'Research Paper Session'
+      time: 01:30pm - 02:00pm
+    - title: Coffee Break
       subtitle: 
+      category: Breaks and Food
+      time: 02:00pm - 02:15pm
+    - title: 'Panel: The Economic Limits of Permissionless Consensus'
+      subtitle: 'Moderator: Hanna Halaburda (NYU Stern). Panelists: Tim Roughgarden (Author, Columbia University), Katya Malinova (Discussant, McMaster University).'
+      category: Panel
+      time: 02:15pm - 03:00pm
+    - title: 'Research Briefs'
+      subtitle: 'Session Chair: Bita Abolfathi (Uniswap Foundation)'
       session: true
+    - title: 'Who Wins Ethereum Block Building Auctions and Why?'
+      subtitle: 'Danning Sui (Flashbots)'
+      category: Talk
+      time: 03:00pm - 03:10pm
+    - title: 'Decentralization of Ethereum’s Builder Market'
+      subtitle: 'Fan Zhang (Yale University)'
+      category: Talk
+      time: 03:10pm - 03:20pm
+    - title: 'CLVR Ordering of Transactions on AMMs'
+      subtitle: 'Robert McLaughlin (University of California at Santa Barbara)'
+      category: Talk
+      time: 03:20pm - 03:30pm
+    - title: 'Price Formation in Memory Pools'
+      subtitle: 'Fayçal Drissi (University of Oxford)'
+      category: Talk
+      time: 03:30pm - 03:40pm
+    - title: 'A User-Owned and Compliant Privacy Protocol for Decentralized Finance'
+      subtitle: 'Amit Chaudhary (University of Warwick)'
+      category: Talk
+      time: 03:40pm - 03:50pm
+    - title: 'BoLD: Fast and Cheap Dispute Resolution'
+      subtitle: 'Ben Berger (Offchain Labs)'
+      category: Talk
+      time: 03:50pm - 04:00pm
     - title: Coffee Break
       subtitle: 
       category: Breaks and Food
       time: 04:00pm - 04:15pm
-    - title: 'Panel: The Economic Limits of Permissionless Consensus'
-      subtitle: 'Moderator: Hanna Halaburda (NYU Stern). Panelists: Tim Roughgarden (Author, Columbia University), Katya Malinova (Discussant, McMaster University).'
-      category: Panel
+    - title: 'Special Session: Overview of Rollups'
+      subtitle: 'Speaker: Ed Felten (Offchain Labs). Moderator: Aviv Yaish (Yale University).'
+      category: Special Session
       time: 04:15pm - 05:00pm
     - title: CBER Forum Announcements
       subtitle: Andreas Park (University of Toronto) and Fahad Saleh (University of Florida)

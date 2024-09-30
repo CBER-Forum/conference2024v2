@@ -43,7 +43,7 @@ days:
       category: Breaks and Food
       time: 09:45am - 10:00am
     - title: 'Maximal Extractable Value (MEV)'
-      subtitle: 'Session Chair: Nir Chemaya (University of California Santa Barbara)'
+      subtitle: 'Session Chair: Jongsub Lee (Seoul National University)'
       session: true
     - title: Overview of Maximal Extractable Value
       subtitle: Ciamac Moallemi (Columbia University)

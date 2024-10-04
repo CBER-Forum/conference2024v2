@@ -78,7 +78,11 @@ days:
     - title: MEV-Aware Hook Design
       subtitle: Karthik Srinivasan (Sorella Labs)
       category: Talk
-      time: 02:45pm - 03:05pm
+      time: 02:45pm - 03:15pm
+    - title: Darkpool Hook Design
+      subtitle: Mehran Hydary (Arena Exchange)
+      category: Talk
+      time: 03:15pm - 03:45pm
     - title: Coffee Break
       subtitle: 
       category: Breaks and Food

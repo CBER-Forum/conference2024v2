@@ -53,8 +53,8 @@ days:
       subtitle: Julian Ma (Ethereum Foundation)
       category: Talk
       time: 10:45am - 11:30am
-    - title: Lunch
-      subtitle: Eigen Layer Presentation
+    - title: 'Lunch with Eigen Layer Presentation: Overview of Eigen Layer'
+      subtitle: 'Speaker: Brett Palatiello (Head of Economics Research, Eigen Labs). Moderator: Lewis Cohen (Cahill Gordon & Reindel LLP).'
       category: Breaks and Food
       time: 11:30am - 01:00pm
     - title: 'Order Flow Auctions'
@@ -144,7 +144,7 @@ days:
       category: Breaks and Food
       time: 02:00pm - 02:15pm
     - title: 'Panel: The Economic Limits of Permissionless Consensus'
-      subtitle: 'Moderator: Hanna Halaburda (NYU Stern). Panelists: Tim Roughgarden (Author, Columbia University), Katya Malinova (Discussant, McMaster University).'
+      subtitle: 'Moderator: Hanna Halaburda (NYU Stern). Panelists: Tim Roughgarden (Author, Columbia University), Katya Malinova (Discussant, McMaster University), Katrin Tinn (Discussant, McGill University).'
       category: Panel
       time: 02:15pm - 03:00pm
     - title: 'Research Briefs'

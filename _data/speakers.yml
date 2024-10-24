@@ -6,7 +6,7 @@ groups:
         affiliation: Uniswap Labs
         site: https://bradbachu.github.io/
         img: https://bradbachu.github.io/brad2.jpg
-        bio: Brad is a researcher at Uniswap Labs. He holds a PhD in Physics from Princeton University, with a focus on high energy theoretical physics. His current research, under the supervision of Nima Arkani-Hamed, involves using on-shell techniques to explore the properties of relativistc scattering amplitudes. 
+        bio: Brad is a researcher at Uniswap Labs. He holds a PhD in Physics from Princeton University and a BSc in Physics and Mathematics from MIT. His PhD research focused on high-energy theoretical physics, where he used on-shell techniques to explore the properties of relativistic scattering amplitudes. His work has been published in the Journal of High Energy Physics and Physical Review D, covering topics in particles, fields, gravitation, and cosmology. Giving up on searching for the fundamental truths of nature, he now focuses on topics related to decentralized finance and trading.
       - name: Bruno
         surname: Biais
         affiliation: HEC
@@ -120,7 +120,7 @@ groups:
         affiliation: University of Florida
         site: https://www.cryptoeconprof.com/
         img: https://static.wixstatic.com/media/c84beb_86fc8b4de844415abdb858d24da6c4f6~mv2.jpg/v1/fill/w_452,h_450,al_c,lg_1,q_80,enc_auto/McGill-400x400.jpg
-        bio: Fahad is an Associate Professor of Finance at the University of Florida. He is also an Associate Editor at Management Science, a co-organizer of the Crypto and Blockchain Economics Research (CBER) Forum and a fellow of the FinTech Initiative at Cornell University. His research centers upon economic questions associated with blockchain and has been published in leading academic journals such as Management Science, the Review of Financial Studies and the Journal of Financial Economics.
+        bio: Professor Saleh is a leading expert on economic design of blockchains. His work informs both the design of blockchain  protocols (e.g., proof-of-work, proof-of-stake, etc…) and also the design of blockchain business applications (e.g., decentralized exchanges, decentralized lending protocols, supply chain applications, etc…). His work has been published by the top peer-reviewed scholarly journals including Management Science, the Review of Financial Studies, and the Journal of Financial Economics. Additionally, he is among the most widely cited blockchain researchers in the world today, and his work includes the most widely cited scholarly article on the economic design of the proof-of-stake blockchain protocol. Professor Saleh serves on the editorial boards of Management Science and the World Scientific Annual Review of FinTech. He is also a founding member and co-organizer of the Crypto and Blockchain Economic Research (CBER) Forum and a Fellow of the FinTech Initiative at Cornell University. He holds a PhD in Finance from New York University's Stern School of Business, a Master of Science in Engineering from Columbia University, and a Bachelor of Science in Engineering from Cornell University. He is currently a member of the Finance faculty at the University of Florida and also teaches a Cryptofinance course at the Massachusetts Institute of Technology.
       - name: Fabian
         surname: Schär
         affiliation: University of Basel

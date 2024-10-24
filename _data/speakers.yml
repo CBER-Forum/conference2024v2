@@ -7,18 +7,48 @@ groups:
         site: https://bradbachu.github.io/
         img: https://bradbachu.github.io/brad2.jpg
         bio: Brad is a researcher at Uniswap Labs. He holds a PhD in Physics from Princeton University and a BSc in Physics and Mathematics from MIT. His PhD research focused on high-energy theoretical physics, where he used on-shell techniques to explore the properties of relativistic scattering amplitudes. His work has been published in the Journal of High Energy Physics and Physical Review D, covering topics in particles, fields, gravitation, and cosmology. Giving up on searching for the fundamental truths of nature, he now focuses on topics related to decentralized finance and trading.
+      - name: Ben
+        surname: Berger
+        affiliation: 
+        site: https://sites.google.com/view/ben-berger
+        img: https://lh4.googleusercontent.com/7_I4Bg4T_iUuQ7w6CuKhNnlmgB877xcLh_CYEUrW4Zzylv0LeGLNzZ9z5D3eHbuf9GV90Yef2yfge7Cv5FKYfGIeoswj0yzh2uh0_le-e37pEineccujHLq0ZiHHMwJAAg=w1280
+        bio: Ben is a research scientist at Offchain Labs, working on blockchain related problems mostly from an economic perspective. Prior to that he was a Ph.D. student at Tel Aviv University, under the supervision of Prof. Michal Feldman.  During that time he studied a broad range of problems at the border of Computer Science and Economics. He received his M.Sc. from the Weizmann Institute of Science in 2018, where he was advised by Prof. Zvika Brakerski. During his M.Sc. he worked on Complexity Theory and Cryptography. He received his B.Sc. in Mathematics and Computer Science from the Technion in 2014.
       - name: Bruno
         surname: Biais
         affiliation: HEC
         site: https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/biais-bruno
         img: https://www.hec.edu/sites/default/files/styles/faculty_member/public/academfiles/128248.jpg?itok=rtBAQSs4
         bio: Bruno Biais holds a PHD in finance from HEC, received the Paris Bourse dissertation award and the CNRS bronze medal. He taught at Toulouse, Carnegie Mellon, Oxford, LSE, and now HEC. His research on finance, contract theory and experimental economics is published in Econometrica, Journal of Political Economy, American Economic Review, Review of Economic Studies, Journal of Finance, Review of Financial Studies and Journal of Financial Economics. He was editor of the Review of Economic Studies and of the Journal of Finance. He is a fellow of the Econometric Society and the Finance Theory group and has been scientific adviser to the NYSE, Euronext, European Central Bank and Bank of England.
+      - name: Benedikt
+        surname: Bünz
+        affiliation: NYU Courant
+        site: https://cs.nyu.edu/~bb/
+        img: https://cs.nyu.edu/~bb/images/benedikt3.png
+        bio: Benedikt Bünz is an Assistant Professor of Computer Science at NYU Courant. He also cofounded and is the chief scientist of Espresso Systems. He researches applied cryptography, consensus and game theory, especially as it relates to cryptocurrencies. His work focuses on enhancing the privacy, usability and security of blockchain protocols.
+      - name: Agostino
+        surname: Capponi
+        affiliation: Columbia University
+        site: https://www.columbia.edu/~ac3827/
+        img: https://www.columbia.edu/~ac3827/assets/images/agostino-capponi-1-266x400.jpg
+        bio: Agostino Capponi is a professor of Industrial Engineering and Operations Research  at Columbia University, where he is also the director of the Center for Digital Finance and Technologies, and a member of the Data Science Institute. Agostino's research interests are in market microstructure, financial technology, economic networks, and machine learning in finance. Agostino's research has been published in major journals of his field, including  Management Science, Operations Research, Journal of Political Economy, Journal of Monetary Economics, Review of Asset Pricing Studies, Journal of Financial and Quantitative Analysis, and Mathematical Finance. Agostino is co-editor of the book Machine Learning and Data Sciences in Financial Markets, published by the Cambridge University Press. Agostino is a fellow of the Crypto and Blockchain Economic Research Forum, an academic fellow of the Luohoan Academy established by the Alibaba Group, and external research fellow at the Fintech@Cornell Center. Agostino's research has been funded by major public agencies including the NSF, DARPA, U.S. Department of Energy, and private agencies and corporations including J.P. Morgan, IBM, Ripple, the Ethereum Foundation, the Institute for New Economic Thinking, the Global Risk Institute, the Clearpool Group, and the OCP Group.
+      - name: Amit
+        surname: Chaudhary
+        affiliation: Labyrinth
+        site: https://www.amit-chaudhary.com/
+        img: https://www.amit-chaudhary.com/author/avatar_hu21f4c7ca25b2e2efb9b8a1cc84aaf62d_4092509_270x270_fill_lanczos_center_2.png
+        bio: Amit is the founder of Labyrinth, a modular framework to preserve privacy in public blockchains and simultaneously provide decentralized compliance network. He is also an honorary research fellow at Gillmore Centre for Financial Technology at University of Warwick. He was the Head of DeFi Research at Polygon. At Polygon, he also led the R&D and incubation of innovative blockchain primitives and co-authored the whitepaper of Polygon 2.0. He has authored multiple papers on the topics of zero knowledge proofs, privacy, novel design and risk assessment of DeFi protocols and crypto economics. He is an active advisor and speaker in the blockchain community, and has served as a technical advisor for several blockchain startups. He has worked in quantitative roles in traditional finance firms like JPMorgan Chase and ICICI bank. He started his career as a computational fluid dynamics engineer at Ansys. He holds a PhD in Economics from the University of Warwick, an MA in economics from the Delhi School of Economics, and a Bachelor of Technology from Indian Institute of Technology Kanpur.
       - name: George
         surname: Deodatis
         affiliation: Columbia University
         site: https://www.eee.columbia.edu/faculty/george-deodatis
         img: https://people.climate.columbia.edu/files/Users/2020/02/3300/deodatis.jpg
         bio: Professor George Deodatis received his Diploma in Civil Engineering from the National Technical University of Athens in Greece in 1982. He holds M.S. and Ph.D. degrees in Civil Engineering from Columbia University (received in 1984 and 1987 respectively). He started his academic career at Princeton University where he served as Assistant Professor and Associate Professor (with tenure). He moved to Columbia University in 2002 where he served as Associate Professor and Professor. He currently holds the Santiago and Robertina Calatrava Family Endowed Chair at the Department of Civil Engineering and Engineering Mechanics at Columbia University. He served as Department Chair from 2013 to 2019 (two terms). His research interests are in the area of probabilistic methods in civil engineering and engineering mechanics, with emphasis on risk analysis and risk management of the civil infrastructure subjected to natural and man-made hazards (including earthquakes, floods, and climate change). He has received the National Science Foundation Young Investigator Award, the International Association for Structural Safety and Reliability Junior Research Prize, and the American Society of Civil Engineers Walter Huber Research Prize. He is a Distinguished Member of the American Society of Civil Engineers (ASCE’s highest honor) and a Fellow of the Engineering Mechanics Institute of the American Society of Civil Engineers. In 2009, he was elected President of the International Association for Structural Safety and Reliability for a four-year term. In 2017, he was elected President of the Engineering Mechanics Institute of the American Society of Civil Engineers for a two-year term. While on the faculty at Princeton University, he was awarded the President's Award for Distinguished Teaching, Princeton's highest teaching honor. At Columbia University, he has received the Presidential Award for Outstanding Teaching and the Great Teacher Award from the Society of Columbia Graduates, Columbia's highest teaching honors.
+      - name: Fayçal
+        surname: Drissi
+        affiliation: University of Oxford
+        site: https://www.faycaldrissi.com/
+        img: https://fdr0903.github.io/images/myface.png
+        bio: Fayçal is currently a postdoctoral researcher at the Oxford-Man Institute, University of Oxford. He obtained a Ph.D. in Mathematics from Université Paris 1 Panthéon-Sorbonne in 2023, where his thesis focused on algorithmic trading problems in traditional electronic markets and in decentralised trading platforms that use Automated Market Makers (AMMs). Prior to his doctoral studies, he spent five years in the hedge fund industry, engaging in research and development related to derivatives pricing and systematic trading.
       - name: Brett
         surname: Falk
         affiliation: University of Pennsylvania
